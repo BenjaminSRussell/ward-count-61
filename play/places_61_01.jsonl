@@ -77,3 +77,6 @@
 {"n":77,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north stair. arc left open. 2 steps. The hydrant stays for the push."}
 {"n":78,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at Switchyard. Nobody past the north stair. We push in 3 steps. Arc on the left lane, open."}
 {"n":79,"kind":"place","name":"Switchyard north stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard north stair. Bess keeps the hydrant for the push. 4 steps, arc on the left lane, open."}
+{"n":80,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north stair. arc left open. 5 steps. The hydrant stays for the push."}
+{"n":81,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at Drydock. Nobody past the north stair. We push in 6 steps. Arc on the left lane, open."}
+{"n":82,"kind":"place","name":"Drydock north stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock north stair. Matt keeps the hydrant for the push. 7 steps, arc on the left lane, open."}
