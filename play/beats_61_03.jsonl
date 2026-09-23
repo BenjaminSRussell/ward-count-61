@@ -775,3 +775,6 @@
 {"n":775,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the rebar at Drydock. Nobody past the south stair. We push in 5 steps. Arc on the left lane, open."}
 {"n":776,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock south stair. Ivo keeps the rebar for the push. 6 steps, arc on the left lane, open."}
 {"n":777,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south stair. arc left open. 7 steps. The rebar stays for the push."}
+{"n":778,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rebar at Drydock. Nobody past the south stair. We push in 8 steps. Arc on the left lane, open."}
+{"n":779,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock south stair. Bess keeps the rebar for the push. 2 steps, arc on the left lane, open."}
+{"n":780,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south stair. arc left open. 3 steps. The rebar stays for the push."}
