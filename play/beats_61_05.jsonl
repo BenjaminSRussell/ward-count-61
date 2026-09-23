@@ -113,3 +113,6 @@
 {"n":113,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at Drydock. Nobody past the west roof. We push in 6 steps. Arc on the left lane, open."}
 {"n":114,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock west roof. Matt keeps the hydrant for the push. 7 steps, arc on the left lane, open."}
 {"n":115,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west roof. arc left open. 8 steps. The hydrant stays for the push."}
+{"n":116,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the hydrant at Drydock. Nobody past the west roof. We push in 2 steps. Arc on the left lane, open."}
+{"n":117,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock west roof. Nia keeps the hydrant for the push. 3 steps, arc on the left lane, open."}
+{"n":118,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west roof. arc left open. 4 steps. The hydrant stays for the push."}
