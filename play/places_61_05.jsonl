@@ -364,3 +364,6 @@
 {"n":364,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west roof. arc left open. 5 steps. The crate stays for the push."}
 {"n":365,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at the Underpass. Nobody past the west roof. We push in 6 steps. Arc on the left lane, open."}
 {"n":366,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass west roof. Matt keeps the crate for the push. 7 steps, arc on the left lane, open."}
+{"n":367,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west roof. arc left open. 8 steps. The crate stays for the push."}
+{"n":368,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the crate at the Underpass. Nobody past the west roof. We push in 2 steps. Arc on the left lane, open."}
+{"n":369,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass west roof. Nia keeps the crate for the push. 3 steps, arc on the left lane, open."}
