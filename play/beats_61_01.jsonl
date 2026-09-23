@@ -411,3 +411,6 @@
 {"n":411,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the crate at Switchyard. Nobody past the north stair. We push in 7 steps. Arc on the left lane, open."}
 {"n":412,"kind":"place","name":"Switchyard north stair","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard north stair. Ivo keeps the crate for the push. 8 steps, arc on the left lane, open."}
 {"n":413,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north stair. arc left open. 2 steps. The crate stays for the push."}
+{"n":414,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at Switchyard. Nobody past the north stair. We push in 3 steps. Arc on the left lane, open."}
+{"n":415,"kind":"place","name":"Switchyard north stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard north stair. Bess keeps the crate for the push. 4 steps, arc on the left lane, open."}
+{"n":416,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north stair. arc left open. 5 steps. The crate stays for the push."}
