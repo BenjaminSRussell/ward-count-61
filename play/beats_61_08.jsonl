@@ -827,3 +827,6 @@
 {"n":827,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the radio coil at High line. Nobody past the east roof. We push in 3 steps. Arc on the left lane, open."}
 {"n":828,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line east roof. Ivo keeps the radio coil for the push. 4 steps, arc on the left lane, open."}
 {"n":829,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east roof. arc left open. 5 steps. The radio coil stays for the push."}
+{"n":830,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the radio coil at High line. Nobody past the east roof. We push in 6 steps. Arc on the left lane, open."}
+{"n":831,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line east roof. Bess keeps the radio coil for the push. 7 steps, arc on the left lane, open."}
+{"n":832,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east roof. arc left open. 8 steps. The radio coil stays for the push."}
