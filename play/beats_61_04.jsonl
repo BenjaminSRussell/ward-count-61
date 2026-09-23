@@ -693,3 +693,6 @@
 {"n":693,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the radio coil at the Underpass. Nobody past the south stair. We push in 6 steps. Arc on the left lane, open."}
 {"n":694,"kind":"place","name":"the Underpass south stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass south stair. Matt keeps the radio coil for the push. 7 steps, arc on the left lane, open."}
 {"n":695,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south stair. arc left open. 8 steps. The radio coil stays for the push."}
+{"n":696,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the radio coil at the Underpass. Nobody past the south stair. We push in 2 steps. Arc on the left lane, open."}
+{"n":697,"kind":"place","name":"the Underpass south stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass south stair. Nia keeps the radio coil for the push. 3 steps, arc on the left lane, open."}
+{"n":698,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south stair. arc left open. 4 steps. The radio coil stays for the push."}
