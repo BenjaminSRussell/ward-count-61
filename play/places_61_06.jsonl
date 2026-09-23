@@ -132,3 +132,6 @@
 {"n":132,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west roof. arc left open. 3 steps. The shutter stays for the push."}
 {"n":133,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the shutter at High line. Nobody past the west roof. We push in 4 steps. Arc on the left lane, open."}
 {"n":134,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line west roof. Matt keeps the shutter for the push. 5 steps, arc on the left lane, open."}
+{"n":135,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west roof. arc left open. 6 steps. The shutter stays for the push."}
+{"n":136,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the shutter at High line. Nobody past the west roof. We push in 7 steps. Arc on the left lane, open."}
+{"n":137,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line west roof. Nia keeps the shutter for the push. 8 steps, arc on the left lane, open."}
