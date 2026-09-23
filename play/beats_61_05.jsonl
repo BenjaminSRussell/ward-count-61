@@ -158,3 +158,6 @@
 {"n":158,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the barrel at Kessler alley. Nobody past the west roof. We push in 2 steps. Arc on the left lane, open."}
 {"n":159,"kind":"place","name":"Kessler alley west roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley west roof. Bess keeps the barrel for the push. 3 steps, arc on the left lane, open."}
 {"n":160,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west roof. arc left open. 4 steps. The barrel stays for the push."}
+{"n":161,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at the Lot. Nobody past the west roof. We push in 5 steps. Arc on the left lane, open."}
+{"n":162,"kind":"place","name":"the Lot west roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot west roof. Matt keeps the barrel for the push. 6 steps, arc on the left lane, open."}
+{"n":163,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west roof. arc left open. 7 steps. The barrel stays for the push."}
