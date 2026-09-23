@@ -108,3 +108,6 @@
 {"n":108,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard west roof. Ivo keeps the hydrant for the push. 8 steps, arc on the left lane, open."}
 {"n":109,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west roof. arc left open. 2 steps. The hydrant stays for the push."}
 {"n":110,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at Switchyard. Nobody past the west roof. We push in 3 steps. Arc on the left lane, open."}
+{"n":111,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard west roof. Bess keeps the hydrant for the push. 4 steps, arc on the left lane, open."}
+{"n":112,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west roof. arc left open. 5 steps. The hydrant stays for the push."}
+{"n":113,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at Drydock. Nobody past the west roof. We push in 6 steps. Arc on the left lane, open."}
