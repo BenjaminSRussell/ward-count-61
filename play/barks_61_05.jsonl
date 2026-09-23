@@ -375,3 +375,6 @@
 {"n":375,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass west roof. Bess keeps the crate for the push. 2 steps, arc on the left lane, open."}
 {"n":376,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west roof. arc left open. 3 steps. The crate stays for the push."}
 {"n":377,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at Mast yard. Nobody past the west roof. We push in 4 steps. Arc on the left lane, open."}
+{"n":378,"kind":"place","name":"Mast yard west roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mast yard west roof. Matt keeps the crate for the push. 5 steps, arc on the left lane, open."}
+{"n":379,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, west roof. arc left open. 6 steps. The crate stays for the push."}
+{"n":380,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the crate at Mast yard. Nobody past the west roof. We push in 7 steps. Arc on the left lane, open."}
