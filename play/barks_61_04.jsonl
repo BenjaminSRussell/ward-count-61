@@ -232,3 +232,6 @@
 {"n":232,"kind":"place","name":"South stair south stair","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair south stair. Ivo keeps the awning for the push. 7 steps, arc on the left lane, open."}
 {"n":233,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south stair. arc left open. 8 steps. The awning stays for the push."}
 {"n":234,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the awning at South stair. Nobody past the south stair. We push in 2 steps. Arc on the left lane, open."}
+{"n":235,"kind":"place","name":"South stair south stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair south stair. Bess keeps the awning for the push. 3 steps, arc on the left lane, open."}
+{"n":236,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south stair. arc left open. 4 steps. The awning stays for the push."}
+{"n":237,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the awning at the pier. Nobody past the south stair. We push in 5 steps. Arc on the left lane, open."}
