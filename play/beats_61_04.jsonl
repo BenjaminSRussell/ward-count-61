@@ -84,3 +84,6 @@
 {"n":84,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the shutter at Clinic roof. Nobody past the south stair. We push in 6 steps. Arc on the left lane, open."}
 {"n":85,"kind":"place","name":"Clinic roof south stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Clinic roof south stair. Nia keeps the shutter for the push. 7 steps, arc on the left lane, open."}
 {"n":86,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south stair. arc left open. 8 steps. The shutter stays for the push."}
+{"n":87,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the shutter at Clinic roof. Nobody past the south stair. We push in 2 steps. Arc on the left lane, open."}
+{"n":88,"kind":"place","name":"Clinic roof south stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Clinic roof south stair. Ivo keeps the shutter for the push. 3 steps, arc on the left lane, open."}
+{"n":89,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south stair. arc left open. 4 steps. The shutter stays for the push."}
