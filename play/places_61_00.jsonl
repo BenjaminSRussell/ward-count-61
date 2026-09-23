@@ -249,3 +249,6 @@
 {"n":249,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east stair. arc left open. 7 steps. The awning stays for the push."}
 {"n":250,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the awning at Drydock. Nobody past the east stair. We push in 8 steps. Arc on the left lane, open."}
 {"n":251,"kind":"place","name":"Drydock east stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock east stair. Bess keeps the awning for the push. 2 steps, arc on the left lane, open."}
+{"n":252,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east stair. arc left open. 3 steps. The awning stays for the push."}
+{"n":253,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the awning at High line. Nobody past the east stair. We push in 4 steps. Arc on the left lane, open."}
+{"n":254,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line east stair. Matt keeps the awning for the push. 5 steps, arc on the left lane, open."}
