@@ -228,3 +228,6 @@
 {"n":228,"kind":"place","name":"the Underpass east roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Underpass east roof. Ivo keeps the awning for the push. 6 steps, arc on the left lane, open."}
 {"n":229,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east roof. arc left open. 7 steps. The awning stays for the push."}
 {"n":230,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the awning at the Underpass. Nobody past the east roof. We push in 8 steps. Arc on the left lane, open."}
+{"n":231,"kind":"place","name":"the Underpass east roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Underpass east roof. Bess keeps the awning for the push. 2 steps, arc on the left lane, open."}
+{"n":232,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east roof. arc left open. 3 steps. The awning stays for the push."}
+{"n":233,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the awning at Mast yard. Nobody past the east roof. We push in 4 steps. Arc on the left lane, open."}
