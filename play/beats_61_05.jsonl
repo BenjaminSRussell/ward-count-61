@@ -740,3 +740,6 @@
 {"n":740,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the rebar at South stair. Nobody past the west roof. We push in 3 steps. Arc on the left lane, open."}
 {"n":741,"kind":"place","name":"South stair west roof","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"South stair west roof. Nia keeps the rebar for the push. 4 steps, arc on the left lane, open."}
 {"n":742,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, west roof. arc left open. 5 steps. The rebar stays for the push."}
+{"n":743,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the rebar at South stair. Nobody past the west roof. We push in 6 steps. Arc on the left lane, open."}
+{"n":744,"kind":"place","name":"South stair west roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"South stair west roof. Ivo keeps the rebar for the push. 7 steps, arc on the left lane, open."}
+{"n":745,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west roof. arc left open. 8 steps. The rebar stays for the push."}
