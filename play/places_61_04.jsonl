@@ -113,3 +113,6 @@
 {"n":113,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south stair. arc left open. 7 steps. The shutter stays for the push."}
 {"n":114,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the shutter at Drydock. Nobody past the south stair. We push in 8 steps. Arc on the left lane, open."}
 {"n":115,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Drydock south stair. Bess keeps the shutter for the push. 2 steps, arc on the left lane, open."}
+{"n":116,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south stair. arc left open. 3 steps. The shutter stays for the push."}
+{"n":117,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the shutter at High line. Nobody past the south stair. We push in 4 steps. Arc on the left lane, open."}
+{"n":118,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"High line south stair. Matt keeps the shutter for the push. 5 steps, arc on the left lane, open."}
