@@ -936,3 +936,6 @@
 {"n":936,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the rope at the pier. Nobody past the east roof. We push in 8 steps. Arc on the left lane, open."}
 {"n":937,"kind":"place","name":"the pier east roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the pier east roof. Nia keeps the rope for the push. 2 steps, arc on the left lane, open."}
 {"n":938,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east roof. arc left open. 3 steps. The rope stays for the push."}
+{"n":939,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the rope at the pier. Nobody past the east roof. We push in 4 steps. Arc on the left lane, open."}
+{"n":940,"kind":"place","name":"the pier east roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier east roof. Ivo keeps the rope for the push. 5 steps, arc on the left lane, open."}
+{"n":941,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east roof. arc left open. 6 steps. The rope stays for the push."}
