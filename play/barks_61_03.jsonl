@@ -455,3 +455,6 @@
 {"n":455,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line south stair. Bess keeps the crate for the push. 7 steps, arc on the left lane, open."}
 {"n":456,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south stair. arc left open. 8 steps. The crate stays for the push."}
 {"n":457,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the lamp at Ward gate. Nobody past the south stair. We push in 2 steps. Arc on the left lane, open."}
+{"n":458,"kind":"place","name":"Ward gate south stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate south stair. Matt keeps the lamp for the push. 3 steps, arc on the left lane, open."}
+{"n":459,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south stair. arc left open. 4 steps. The lamp stays for the push."}
+{"n":460,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the lamp at Ward gate. Nobody past the south stair. We push in 5 steps. Arc on the left lane, open."}
