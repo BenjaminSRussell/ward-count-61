@@ -333,3 +333,6 @@
 {"n":333,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west roof. arc left open. 8 steps. The drum stays for the push."}
 {"n":334,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at Kessler alley. Nobody past the west roof. We push in 2 steps. Arc on the left lane, open."}
 {"n":335,"kind":"place","name":"Kessler alley west roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley west roof. Bess keeps the drum for the push. 3 steps, arc on the left lane, open."}
+{"n":336,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west roof. arc left open. 4 steps. The drum stays for the push."}
+{"n":337,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the drum at the Lot. Nobody past the west roof. We push in 5 steps. Arc on the left lane, open."}
+{"n":338,"kind":"place","name":"the Lot west roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Lot west roof. Matt keeps the drum for the push. 6 steps, arc on the left lane, open."}
