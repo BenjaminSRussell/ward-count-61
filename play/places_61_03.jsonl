@@ -30,3 +30,6 @@
 {"n":30,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south stair. arc left open. 2 steps. The hydrant stays for the push."}
 {"n":31,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the hydrant at Mast yard. Nobody past the south stair. We push in 3 steps. Arc on the left lane, open."}
 {"n":32,"kind":"place","name":"Mast yard south stair","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard south stair. Ivo keeps the hydrant for the push. 4 steps, arc on the left lane, open."}
+{"n":33,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south stair. arc left open. 5 steps. The hydrant stays for the push."}
+{"n":34,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at Mast yard. Nobody past the south stair. We push in 6 steps. Arc on the left lane, open."}
+{"n":35,"kind":"place","name":"Mast yard south stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard south stair. Bess keeps the hydrant for the push. 7 steps, arc on the left lane, open."}
