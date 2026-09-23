@@ -410,3 +410,6 @@
 {"n":410,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at Mast yard. Nobody past the east roof. We push in 6 steps. Arc on the left lane, open."}
 {"n":411,"kind":"place","name":"Mast yard east roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard east roof. Bess keeps the drum for the push. 7 steps, arc on the left lane, open."}
 {"n":412,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east roof. arc left open. 8 steps. The drum stays for the push."}
+{"n":413,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the drum at Last Light. Nobody past the east roof. We push in 2 steps. Arc on the left lane, open."}
+{"n":414,"kind":"place","name":"Last Light east roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light east roof. Matt keeps the drum for the push. 3 steps, arc on the left lane, open."}
+{"n":415,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east roof. arc left open. 4 steps. The drum stays for the push."}
