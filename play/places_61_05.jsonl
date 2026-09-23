@@ -208,3 +208,6 @@
 {"n":208,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west roof. arc left open. 3 steps. The barrel stays for the push."}
 {"n":209,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at Mast yard. Nobody past the west roof. We push in 4 steps. Arc on the left lane, open."}
 {"n":210,"kind":"place","name":"Mast yard west roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard west roof. Matt keeps the barrel for the push. 5 steps, arc on the left lane, open."}
+{"n":211,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, west roof. arc left open. 6 steps. The barrel stays for the push."}
+{"n":212,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at Mast yard. Nobody past the west roof. We push in 7 steps. Arc on the left lane, open."}
+{"n":213,"kind":"place","name":"Mast yard west roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard west roof. Nia keeps the barrel for the push. 8 steps, arc on the left lane, open."}
