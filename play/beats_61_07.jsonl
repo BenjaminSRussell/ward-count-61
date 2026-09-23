@@ -531,3 +531,6 @@
 {"n":531,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the lamp at Stockyard fence. Nobody past the east roof. We push in 2 steps. Arc on the left lane, open."}
 {"n":532,"kind":"place","name":"Stockyard fence east roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence east roof. Ivo keeps the lamp for the push. 3 steps, arc on the left lane, open."}
 {"n":533,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east roof. arc left open. 4 steps. The lamp stays for the push."}
+{"n":534,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the lamp at Stockyard fence. Nobody past the east roof. We push in 5 steps. Arc on the left lane, open."}
+{"n":535,"kind":"place","name":"Stockyard fence east roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence east roof. Bess keeps the lamp for the push. 6 steps, arc on the left lane, open."}
+{"n":536,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east roof. arc left open. 7 steps. The lamp stays for the push."}
