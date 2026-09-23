@@ -299,3 +299,6 @@
 {"n":299,"kind":"place","name":"the Lot east stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot east stair. Bess keeps the drum for the push. 8 steps, arc on the left lane, open."}
 {"n":300,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east stair. arc left open. 2 steps. The drum stays for the push."}
 {"n":301,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the drum at Stockyard fence. Nobody past the east stair. We push in 3 steps. Arc on the left lane, open."}
+{"n":302,"kind":"place","name":"Stockyard fence east stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence east stair. Matt keeps the drum for the push. 4 steps, arc on the left lane, open."}
+{"n":303,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east stair. arc left open. 5 steps. The drum stays for the push."}
+{"n":304,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the drum at Stockyard fence. Nobody past the east stair. We push in 6 steps. Arc on the left lane, open."}
