@@ -963,3 +963,6 @@
 {"n":963,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock west roof. Bess keeps the rope for the push. 2 steps, arc on the left lane, open."}
 {"n":964,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west roof. arc left open. 3 steps. The rope stays for the push."}
 {"n":965,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the rope at High line. Nobody past the west roof. We push in 4 steps. Arc on the left lane, open."}
+{"n":966,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"High line west roof. Matt keeps the rope for the push. 5 steps, arc on the left lane, open."}
+{"n":967,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west roof. arc left open. 6 steps. The rope stays for the push."}
+{"n":968,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the rope at High line. Nobody past the west roof. We push in 7 steps. Arc on the left lane, open."}
