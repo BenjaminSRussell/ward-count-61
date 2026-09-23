@@ -480,3 +480,6 @@
 {"n":480,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north roof. arc left open. 5 steps. The crate stays for the push."}
 {"n":481,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at Drydock. Nobody past the north roof. We push in 6 steps. Arc on the left lane, open."}
 {"n":482,"kind":"place","name":"Drydock north roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock north roof. Matt keeps the crate for the push. 7 steps, arc on the left lane, open."}
+{"n":483,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north roof. arc left open. 8 steps. The crate stays for the push."}
+{"n":484,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the crate at Drydock. Nobody past the north roof. We push in 2 steps. Arc on the left lane, open."}
+{"n":485,"kind":"place","name":"Drydock north roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock north roof. Nia keeps the crate for the push. 3 steps, arc on the left lane, open."}
