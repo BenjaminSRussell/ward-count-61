@@ -352,3 +352,6 @@
 {"n":352,"kind":"place","name":"the Lot east roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot east roof. Ivo keeps the crate for the push. 5 steps, arc on the left lane, open."}
 {"n":353,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east roof. arc left open. 6 steps. The crate stays for the push."}
 {"n":354,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at the Lot. Nobody past the east roof. We push in 7 steps. Arc on the left lane, open."}
+{"n":355,"kind":"place","name":"the Lot east roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot east roof. Bess keeps the crate for the push. 8 steps, arc on the left lane, open."}
+{"n":356,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east roof. arc left open. 2 steps. The crate stays for the push."}
+{"n":357,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at Stockyard fence. Nobody past the east roof. We push in 3 steps. Arc on the left lane, open."}
