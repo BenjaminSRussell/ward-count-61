@@ -114,3 +114,6 @@
 {"n":114,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the barrel at Ward gate. Nobody past the north stair. We push in 4 steps. Arc on the left lane, open."}
 {"n":115,"kind":"place","name":"Ward gate north stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate north stair. Bess keeps the barrel for the push. 5 steps, arc on the left lane, open."}
 {"n":116,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north stair. arc left open. 6 steps. The barrel stays for the push."}
+{"n":117,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at Kessler alley. Nobody past the north stair. We push in 7 steps. Arc on the left lane, open."}
+{"n":118,"kind":"place","name":"Kessler alley north stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Kessler alley north stair. Matt keeps the barrel for the push. 8 steps, arc on the left lane, open."}
+{"n":119,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north stair. arc left open. 2 steps. The barrel stays for the push."}
