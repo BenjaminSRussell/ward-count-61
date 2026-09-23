@@ -477,3 +477,6 @@
 {"n":477,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south stair. arc left open. 8 steps. The lamp stays for the push."}
 {"n":478,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the lamp at Kessler alley. Nobody past the south stair. We push in 2 steps. Arc on the left lane, open."}
 {"n":479,"kind":"place","name":"Kessler alley south stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley south stair. Bess keeps the lamp for the push. 3 steps, arc on the left lane, open."}
+{"n":480,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south stair. arc left open. 4 steps. The lamp stays for the push."}
+{"n":481,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the lamp at the Lot. Nobody past the south stair. We push in 5 steps. Arc on the left lane, open."}
+{"n":482,"kind":"place","name":"the Lot south stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot south stair. Matt keeps the lamp for the push. 6 steps, arc on the left lane, open."}
