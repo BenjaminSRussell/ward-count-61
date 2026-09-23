@@ -596,3 +596,6 @@
 {"n":596,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the badge door at Drydock. Nobody past the north stair. We push in 2 steps. Arc on the left lane, open."}
 {"n":597,"kind":"place","name":"Drydock north stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock north stair. Nia keeps the badge door for the push. 3 steps, arc on the left lane, open."}
 {"n":598,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north stair. arc left open. 4 steps. The badge door stays for the push."}
+{"n":599,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the badge door at Drydock. Nobody past the north stair. We push in 5 steps. Arc on the left lane, open."}
+{"n":600,"kind":"place","name":"Drydock north stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock north stair. Ivo keeps the badge door for the push. 6 steps, arc on the left lane, open."}
+{"n":601,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north stair. arc left open. 7 steps. The badge door stays for the push."}
